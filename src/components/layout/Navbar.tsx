@@ -46,8 +46,8 @@ export default function Navbar() {
           <div className="p-2 bg-primary/20 rounded-lg group-hover:bg-primary/30 transition-colors">
             <Code2 className="w-6 h-6 text-primary" />
           </div>
-          <span className="text-xl font-bold text-transparent bg-linear-to-r from-white to-gray-400 bg-clip-text">
-            WebIn
+          <span className="text-xl lowercase bg-linear-to-r from-white to-gray-400 bg-clip-text text-transparent">
+            <span className="font-extrabold">amba</span>Web
           </span>
         </Link>
 

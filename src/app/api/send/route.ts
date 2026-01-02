@@ -8,7 +8,7 @@ export async function POST(request: Request) {
     const { name, email, subject, message } = await request.json();
 
     const data = await resend.emails.send({
-      from: 'WebIn Contact Form <noreply@iihn.fun>',
+      from: 'ambaweb Contact Form <noreply@iihn.fun>',
       to: ['webin@iihn.fun'],
       replyTo: email,
       subject: `New Inquiry: ${subject}`,

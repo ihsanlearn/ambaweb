@@ -22,7 +22,7 @@ export default function Footer() {
       <footer className="bg-background border-t border-white/5 py-12 px-6">
         <div className="container mx-auto grid grid-cols-1 md:grid-cols-4 gap-12">
           <div className="space-y-4">
-            <h3 className="text-xl font-bold text-white">WebIn</h3>
+            <h3 className="text-xl font-bold lowercase text-white">ambaweb</h3>
             <p className="text-gray-400 text-sm leading-relaxed max-w-sm">
               {t.footer.description}
             </p>
@@ -73,7 +73,7 @@ export default function Footer() {
         </div>
 
         <div className="container mx-auto mt-12 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-500">
-          <p>© {new Date().getFullYear()} WebIn. {t.footer.rights}</p>
+          <p>© {new Date().getFullYear()} ambaweb. {t.footer.rights}</p>
           <div className="flex gap-6">
             <button
               onClick={() => setActiveModal("privacy")}

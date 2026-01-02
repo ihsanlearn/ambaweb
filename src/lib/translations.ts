@@ -183,7 +183,7 @@ export const translations = {
       ]
     },
     footer: {
-      p1: "At WebIn, we believe that a website is your most powerful digital asset. We don't just build pages, we engineer digital experiences that drive growth, engage users, and elevate your brand authority.",
+      p1: "At ambaweb, we believe that a website is your most powerful digital asset. We don't just build pages, we engineer digital experiences that drive growth, each user, and elevate your brand authority.",
       description: "Your partner in digital transformation.",
       services: "Services",
       company: "Company",
@@ -197,11 +197,11 @@ export const translations = {
       modals: {
         privacy: {
           title: "Privacy Policy",
-          content: "At WebIn, we prioritize your privacy. We only collect essential information required to deliver our services, such as your email and project details. We never share your data with third parties without your explicit consent. Your digital assets and intellectual property remain strictly confidential."
+          content: "At ambaweb, we prioritize your privacy. We only collect essential information required to deliver our services, such as your email and project details. We never share your data with third parties without your explicit consent. Your digital assets and intellectual property remain strictly confidential."
         },
         terms: {
           title: "Terms of Cooperation",
-          content: "By working with WebIn, you agree to our collaborative workflow. We ensure transparency in pricing, timeline, and deliverables. A 50% down payment is required to start, with the remaining balance due upon project completion and approval. Revisions are provided as per the agreement."
+          content: "By working with ambaweb, you agree to our collaborative workflow. We ensure transparency in pricing, timeline, and deliverables. A 50% down payment is required to start, with the remaining balance due upon project completion and approval. Revisions are provided as per the agreement."
         }
       }
     }
@@ -390,7 +390,7 @@ export const translations = {
       ]
     },
     footer: {
-      p1: "WebIn, kami percaya bahwa website adalah aset digital paling kuat Anda. Kami tidak hanya membuat halaman, kami merekayasa pengalaman digital yang mendorong pertumbuhan dan meningkatkan otoritas brand Anda.",
+      p1: "ambaweb, kami percaya bahwa website adalah aset digital paling kuat Anda. Kami tidak hanya membuat halaman, kami merekayasa pengalaman digital yang mendorong pertumbuhan dan meningkatkan otoritas brand Anda.",
       description: "Menciptakan pengalaman digital yang menggabungkan fungsionalitas dengan estetika premium. Mitra Anda dalam transformasi digital.",
       services: "Layanan",
       company: "Perusahaan",
@@ -404,11 +404,11 @@ export const translations = {
       modals: {
         privacy: {
           title: "Kebijakan Privasi",
-          content: "WebIn, kami mengutamakan privasi Anda. Kami hanya mengumpulkan informasi penting yang diperlukan untuk layanan, seperti email dan detail proyek. Kami tidak pernah membagikan data Anda kepada pihak ketiga tanpa persetujuan Anda. Aset digital dan kekayaan intelektual Anda tetap sangat rahasia."
+          content: "ambaweb, kami mengutamakan privasi Anda. Kami hanya mengumpulkan informasi penting yang diperlukan untuk layanan, seperti email dan detail proyek. Kami tidak pernah membagikan data Anda kepada pihak ketiga tanpa persetujuan Anda. Aset digital dan kekayaan intelektual Anda tetap sangat rahasia."
         },
         terms: {
           title: "Syarat Kerjasama",
-          content: "Dengan bekerja sama dengan WebIn, Anda menyetujui alur kerja kolaboratif kami. Kami menjamin transparansi dalam harga, waktu pengerjaan, dan hasil akhir. DP 50% diperlukan untuk memulai, dengan sisa pelunasan setelah proyek selesai dan disetujui. Revisi diberikan sesuai kesepakatan."
+          content: "Dengan bekerja sama dengan ambaweb, Anda menyetujui alur kerja kolaboratif kami. Kami menjamin transparansi dalam harga, waktu pengerjaan, dan hasil akhir. DP 50% diperlukan untuk memulai, dengan sisa pelunasan setelah proyek selesai dan disetujui. Revisi diberikan sesuai kesepakatan."
         }
       }
     }

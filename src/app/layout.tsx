@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "WebIn - Premium Web Development",
+  title: "ambaweb - Modern Web Development",
   description: "Professional website build services, portfolios, and landing pages.",
 };
 

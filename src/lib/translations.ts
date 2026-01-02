@@ -390,6 +390,7 @@ export const translations = {
       ]
     },
     footer: {
+      p1: "WebIn, kami percaya bahwa website adalah aset digital paling kuat Anda. Kami tidak hanya membuat halaman, kami merekayasa pengalaman digital yang mendorong pertumbuhan dan meningkatkan otoritas brand Anda.",
       description: "Menciptakan pengalaman digital yang menggabungkan fungsionalitas dengan estetika premium. Mitra Anda dalam transformasi digital.",
       services: "Layanan",
       company: "Perusahaan",
@@ -403,7 +404,6 @@ export const translations = {
       modals: {
         privacy: {
           title: "Kebijakan Privasi",
-          p1: "WebIn, kami percaya bahwa website adalah aset digital paling kuat Anda. Kami tidak hanya membuat halaman, kami merekayasa pengalaman digital yang mendorong pertumbuhan dan meningkatkan otoritas brand Anda.",
           content: "WebIn, kami mengutamakan privasi Anda. Kami hanya mengumpulkan informasi penting yang diperlukan untuk layanan, seperti email dan detail proyek. Kami tidak pernah membagikan data Anda kepada pihak ketiga tanpa persetujuan Anda. Aset digital dan kekayaan intelektual Anda tetap sangat rahasia."
         },
         terms: {
